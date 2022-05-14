@@ -2,6 +2,7 @@
 Deep-Learning Schemes for Full-Wave Nonlinear Inverse Scattering Problems  
 Paper:https://ieeexplore.ieee.org/document/8476623  
 because the permittivityDC file is too big can't upload to the git.
+https://drive.google.com/drive/folders/1WRRbLeNAuYvg83yZqjNujFoOyyOmmVxJ
 
 #U-NET 架構圖
 > ![image](https://user-images.githubusercontent.com/99627872/168261977-a02f008b-cd64-451b-b574-4344c7a93cb5.png)
