@@ -16,14 +16,13 @@ https://drive.google.com/drive/folders/1WRRbLeNAuYvg83yZqjNujFoOyyOmmVxJ
 #Training On Single GPU
 > ![image](https://user-images.githubusercontent.com/99627872/168266740-2bf17345-c7ff-4179-bd44-d59b82df7e32.png)
 
-#Using On MNIST
-
-<img src="https://user-images.githubusercontent.com/99627872/168262393-c0bcde68-5f13-4b1a-8c7a-9db8a3a00c51.png" width="50%">
-<img src="https://user-images.githubusercontent.com/99627872/168262531-ca00b1f4-c933-4cc5-8ed4-121b7a5a7b09.png" width="50%">
-<img src="https://user-images.githubusercontent.com/99627872/168262716-3bedc2be-bd8b-46ab-840b-615e14f7919c.png" width="50%">
-
 #Using On Permittivity
 > ![image](https://user-images.githubusercontent.com/99627872/170402609-7568d8d6-dbd7-4f90-95ae-d46f9e221b07.png)
 > 
 > ![image](https://user-images.githubusercontent.com/99627872/170402391-4b724811-7fe7-4c50-90fc-dd7d68c5c0d7.png)
 
+#Using On MNIST
+
+<img src="https://user-images.githubusercontent.com/99627872/168262393-c0bcde68-5f13-4b1a-8c7a-9db8a3a00c51.png" width="50%">
+<img src="https://user-images.githubusercontent.com/99627872/168262531-ca00b1f4-c933-4cc5-8ed4-121b7a5a7b09.png" width="50%">
+<img src="https://user-images.githubusercontent.com/99627872/168262716-3bedc2be-bd8b-46ab-840b-615e14f7919c.png" width="50%">
